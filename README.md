@@ -1,6 +1,7 @@
+# User-based Predictive Caching Framework
 ### :heavy_check_mark: Working
 
-# Information
+## Information
 **Detailed information about the project can be found in ```documentation.pdf```.** Following is an attempt to briefly summarize key aspects of the idea and its implementation. 
 ## Functionality
 - The project aims at creating a standalone framework to analyze users' application-usage behavior.
